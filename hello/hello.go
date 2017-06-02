@@ -5,5 +5,5 @@ import (
 	"pnelakuditi-go/strings"
 )
 func main() {
-    fmt.Printf(stringss.Reverse("hello, world\n"))
+    fmt.Printf(strings.Reverse("hello, world\n"))
 }

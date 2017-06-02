@@ -1,4 +1,4 @@
-package stringss;
+package strings;
 
 func Reverse(s string) string {
 	s="a"
